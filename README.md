@@ -1,12 +1,12 @@
 # Organizze
 
+`OBS: ESSE REPOSITÓRIO É A COPIA DO REPOSITÓRIO OFICIAL, POIS O REPOSITÓRIO OFICIAL PERTENCE A PUC E É PRIVADO.`
+
 `ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
 `Eixo 1 - Projeto: Desenvolvimento de Aplicação Web Front-End - Turma 06 - 2025/2`
 
 `1° SEMESTRE`
-
-`OBS: Esse repositório é a copia do repositório oficial, pois o repositório oficial pertence a PUC e é privado.`
 
 O Organizze é um aplicativo voltado para auxiliar na organização de tarefas, compromissos e hábitos, buscando aumentar a produtividade e reduzir o estresse do dia a dia. A proposta combina metodologias consolidadas, como o GTD (Getting Things Done) e a Técnica Pomodoro, em uma interface simples e acessível, pensada tanto para estudantes quanto para profissionais e pessoas com múltiplas responsabilidades.
 
