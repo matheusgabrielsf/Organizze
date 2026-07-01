@@ -17,7 +17,6 @@ Diferente de ferramentas como Trello, Todoist, Google Agenda e Notion, o Organiz
 - Matheus Gabriel da Silva Ferreira
 - Davi Lucas Sena Costa de Souza
 - Samuel Cassio Batista Xavier
-- Gabriel Lorran Ribeiro Dias
 - André Lucas Cabral Cândido
 - Vinicius Marques Ferreira de Sousa
 
